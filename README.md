@@ -7,12 +7,12 @@
 
 ### 🧠 About Me
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNjNmdyZDFvenFoZ3FscWk1cWQzYXQwOXRiMjdkaTl3bzRqencyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="31%"  align="right"/>
-- 🎓 Computer Engineering undergrad at **Aligarh Muslim University, India**.
-- 🧪 Love building impactful systems from **ground up** – backend to frontend.
-- 🛠️ Tools of choice: **Flask**, **Next.js**, **React**, **PostgreSQL**.
-- 💡 Worked as Satellite Payload Designer @**SS AMU SAT**, Web Deloper Intern @**OrbitaLink**. 
-- 🔭 I'm currently learning **C#**. 
-- 📬 Reach me: **s.saadat.ahmad@gmail.com**
+- 🎓 Computer Engineering undergrad at <b>Aligarh Muslim University, India</b><br>
+- 🧪 Love building impactful systems from backend to frontend.<br>
+- 🛠️ Tools of choice: Flask, Next.js, React, PostgreSQL.<br>
+- 💡 Worked as Satellite Payload Designer @SS AMU SAT, Web Dev Intern @OrbitaLink pvt ltd. <br>
+- 🔭 I'm currently learning C#. <br>
+- 📬 Reach me: s.saadat.ahmad@gmail.com<br>
 
 ---
 
