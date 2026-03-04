@@ -10,8 +10,8 @@
 - 🎓 Computer Engineering undergrad at <b>Aligarh Muslim University, India</b><br>
 - 🧪 Love building impactful systems from backend to frontend.<br>
 - 🛠️ Tools of choice: Flask, Next.js, React, PostgreSQL.<br>
-- 💡 Satellite Payload Designer @SS AMU SAT, Web Dev Intern @OrbitaLink pvt ltd. <br>
-- 🔭 I'm currently learning C#. <br>
+- 💡 Software Developer Intern @telecrm. <br>
+- 🔭 I'm currently building with Angular JS. <br>
 - 📬 Reach me: s.saadat.ahmad@gmail.com<br>
 
 ---
